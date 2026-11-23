@@ -1,0 +1,6 @@
+{
+  "name": "Maison Living",
+  "description": "Contemporary Kenyan furniture showroom offering ready-made and bespoke solid timber and upholstered pieces in Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
